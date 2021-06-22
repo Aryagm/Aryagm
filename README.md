@@ -2,6 +2,8 @@
 
 <h2 align="center">About me</h2>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ```
 - 🔭 I’m currently working on many small ML pojects.
 - 🌱 I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
@@ -15,6 +17,7 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="arya-manjaramkar-b44a35213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/arya-manjaramkar-b44a35213?trk=profile-badge">Arya Manjaramkar</a></div>
+
 
 <p align="center">
              
@@ -72,8 +75,3 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
-----
-Credit: [AnhellO](https://github.com/AnhellO)
-
-Last Edited on: 23/09/2020
