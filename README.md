@@ -14,10 +14,10 @@
 
 <h2 align="center">You can reach me at :alien:</h2>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="arya-manjaramkar-b44a35213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/arya-manjaramkar-b44a35213?trk=profile-badge">Arya Manjaramkar</a></div>
+
 <p align="center">
-  
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="arya-manjaramkar-b44a35213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/arya-manjaramkar-b44a35213?trk=profile-badge">Arya Manjaramkar</a></div>
-              
+             
 
   <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
