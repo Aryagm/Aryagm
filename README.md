@@ -1,4 +1,4 @@
-# Angel Jaime
+# Arya Manjaramkar
 
 <h2 align="center">About me</h2>
 
