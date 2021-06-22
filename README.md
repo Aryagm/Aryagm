@@ -6,6 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
+- 🏫: I'm a grade 9, High School Student.
 - 🔭: I’m currently working on many small ML pojects.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
