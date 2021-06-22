@@ -1,8 +1,10 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 # Arya Manjaramkar
 
 <h2 align="center">About me</h2>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 ```
 - 🔭 I’m currently working on many small ML pojects.
