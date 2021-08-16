@@ -7,7 +7,7 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
+- 🔭: I’m currently working on [CodeGenX-1](https://github.com/Aryagm/CodeGenX-1).
 - 🌱: I’m currently learning about Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
