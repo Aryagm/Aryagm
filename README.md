@@ -8,7 +8,7 @@
 
 - 🏫: I'm a grade 9, High School Student.
 - 🧠: Founder of [DeepGenX](https://github.com/DeepGenX)
-- 🔭: I’m currently working on [CodeGenX-1](https://github.com/DeepGenX/CodeGenX).
+- 🔭: I’m currently working on [CodeGenX](https://github.com/DeepGenX/CodeGenX).
 - 🌱: I’m currently learning about Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently working on! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
