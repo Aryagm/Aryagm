@@ -7,9 +7,10 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on [CodeGenX-1](https://github.com/Aryagm/CodeGenX-1).
+- 🧠: Founder of [DeepGenX](https://github.com/DeepGenX)
+- 🔭: I’m currently working on [CodeGenX-1](https://github.com/DeepGenX/CodeGenX).
 - 🌱: I’m currently learning about Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
+- 🤔: I’m looking for help with anything I am currently working on! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
