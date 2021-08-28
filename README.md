@@ -51,8 +51,8 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices&show_owner=true)](https://github.com/Aryagm/California_Housing_Prices)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=Stocksent&show_owner=true)](https://github.com/Aryagm/Stocksent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepGenX&repo=CodeGenX&show_owner=true)](https://github.com/DeepGenX/CodeGenX)
 
 <Br>
 <hr>
