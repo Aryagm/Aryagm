@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
+- 🏫: I'm a grade 10, High School Student.
 - 🧠: Founder of [DeepGenX](https://github.com/DeepGenX)
 - 🔭: I’m currently working on [CodeGenX](https://github.com/DeepGenX/CodeGenX).
 - 🌱: I’m currently learning about Neural Networks and Deep Learning. 🧠💻🤖
