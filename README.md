@@ -51,8 +51,9 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=Stocksent&show_owner=true)](https://github.com/Aryagm/Stocksent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepGenX&repo=CodeGenX&show_owner=true)](https://github.com/DeepGenX/CodeGenX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=Stocksent&show_owner=true)](https://github.com/Aryagm/Stocksent)
+
 
 <Br>
 <hr>
