@@ -4,17 +4,7 @@
 <hr>
 <h1 align="center">I'm <a href="https://aryagm.com">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 10, High School Student.
-- 🧠: Founder of [DeepGenX](https://github.com/DeepGenX)
-- 🔭: I’m currently working on [CodeGenX](https://github.com/DeepGenX/CodeGenX).
-- 🌱: I’m currently learning about Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently working on! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
-  
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
